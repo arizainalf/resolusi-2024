@@ -1,6 +1,7 @@
 Rencana belajar Ari
 - Belajar Laravel 8
   - selama sebulan
+- Belajar Laravel 9
+- Belajar Laravel 10
 - Belajar golang
 - Belajar node.js
-- Belajar MP
