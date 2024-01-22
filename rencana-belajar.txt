@@ -3,3 +3,4 @@ Rencana belajar Ari
   - selama sebulan
 - Belajar golang
 - Belajar node.js
+- Belajar MP
