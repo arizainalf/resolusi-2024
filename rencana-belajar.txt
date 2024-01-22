@@ -2,5 +2,7 @@ Rencana belajar Ari
 - Belajar Laravel 8
   - selama sebulan
 - Belajar golang
+  - Framework Golang
 - Belajar node.js
 - Belajar MP
+- Belajar Python
