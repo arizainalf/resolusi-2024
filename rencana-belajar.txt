@@ -1,0 +1,4 @@
+Rencana belajar Ari
+- Belajar Laravel 8
+- Belajar golang
+- Belajar node.js
