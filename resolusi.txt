@@ -1,5 +1,5 @@
 Resolusi 2024
 1. Konsisten Belajar coding 2 kali sehari
 2. Membuat aplikasi web 1 per minggu
-3. Belajar Laravel
+3. Membuat Konten coding
 4. Belajar Golang
